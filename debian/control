@@ -1,0 +1,15 @@
+Source: vx-kiosk-chromium
+Section: web
+Priority: extra
+Maintainer: Jose Antonio Chavarría <jachavar@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/vitalinux-kiosk/vx-kiosk-chromium
+
+Package: vx-kiosk-chromium
+Architecture: all
+Provides: vx-virtual-chromium
+Conflicts: vx-virtual-chromium
+Replaces: vx-virtual-chromium
+Depends: ${misc:Depends}, chromium-browser
+Description: Configuration for Chromium browser (Kiosk project)

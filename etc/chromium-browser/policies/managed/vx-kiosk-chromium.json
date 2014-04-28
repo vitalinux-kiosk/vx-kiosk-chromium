@@ -1,0 +1,7 @@
+{
+    "HomepageLocation": "http://www.zaragoza.es/",
+    "HomepageIsNewTabPage": false,
+    "ShowHomeButton": true,
+    "RestoreOnStartup": 4,
+    "RestoreOnStartupURLs": ["http://www.zaragoza.es"],
+}

@@ -1,0 +1,5 @@
+vx-kiosk-chromium (1.0-1) unstable; urgency=low
+
+  * Se configura como página de inicio www.zaragoza.es
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Mon, 28 Apr 2014 12:46:41 +0100
